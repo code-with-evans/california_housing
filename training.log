@@ -1,0 +1,32 @@
+2025-10-17 04:13:36,434 - INFO - Dataset shape: (20640, 8), Target shape: (20640,)
+2025-10-17 04:13:36,440 - INFO - Data successfully split into training, validation, and test sets.
+2025-10-17 04:14:01,516 - INFO - Model training complete.
+2025-10-17 04:14:57,562 - INFO - Dataset shape: (20640, 8), Target shape: (20640,)
+2025-10-17 04:14:57,566 - INFO - Data successfully split into training, validation, and test sets.
+2025-10-17 04:15:24,025 - INFO - Model training complete.
+2025-10-17 04:15:24,227 - INFO - Test RMSE: 0.5858691334724426
+2025-10-17 04:15:24,276 - INFO - Model successfully saved to model/california_housing_model.keras
+2025-10-17 10:53:36,615 - INFO - Dataset shape: (20640, 8), Target shape: (20640,)
+2025-10-17 10:53:36,622 - INFO - Data successfully split into training, validation, and test sets.
+2025-10-17 10:54:12,639 - INFO - Model training complete.
+2025-10-17 10:54:12,869 - INFO - Test RMSE: 0.5827609896659851
+2025-10-17 10:54:12,914 - INFO - Model successfully saved to model/california_housing_model.keras
+2025-10-17 11:00:19,956 - INFO - Dataset shape: (20640, 8), Target shape: (20640,)
+2025-10-17 11:00:19,960 - INFO - Data successfully split into training, validation, and test sets.
+2025-10-17 11:00:57,323 - INFO - Dataset shape: (20640, 8), Target shape: (20640,)
+2025-10-17 11:00:57,327 - INFO - Data successfully split into training, validation, and test sets.
+2025-10-17 11:02:29,333 - INFO - Dataset shape: (20640, 8), Target shape: (20640,)
+2025-10-17 11:02:29,339 - INFO - Data successfully split into training, validation, and test sets.
+2025-10-17 11:03:05,332 - INFO - Model training complete.
+2025-10-17 11:03:05,598 - INFO - Test RMSE: 0.5734063386917114
+2025-10-17 11:03:05,649 - INFO - Model successfully saved to model/california_housing_model.keras
+2025-10-17 11:05:00,501 - INFO - Dataset shape: (20640, 8), Target shape: (20640,)
+2025-10-17 11:05:00,506 - INFO - Data successfully split into training, validation, and test sets.
+2025-10-17 11:05:18,469 - INFO - Model training complete.
+2025-10-17 11:05:18,724 - INFO - Test RMSE: 0.6060380935668945
+2025-10-17 11:05:18,772 - INFO - Model successfully saved to model/california_housing_model.keras
+2025-10-17 11:07:27,750 - INFO - Dataset shape: (20640, 8), Target shape: (20640,)
+2025-10-17 11:07:27,756 - INFO - Data successfully split into training, validation, and test sets.
+2025-10-17 11:08:05,215 - INFO - Model training complete.
+2025-10-17 11:08:05,438 - INFO - Test RMSE: 0.5833374261856079
+2025-10-17 11:08:05,480 - INFO - Model successfully saved to model/california_housing_model.keras
